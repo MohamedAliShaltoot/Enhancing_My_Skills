@@ -5,3 +5,5 @@
 2] use git commit -am " message " to add and commit at the same command .
 
 3] use git reset fileName to unstage last git add fileName .
+
+3] If you pushed a new commit and there is no pull Request & compare appeared there is a drop down menu called contribute click it and U can do pull request .
