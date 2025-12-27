@@ -1,0 +1,3 @@
+# Notes :
+
+1] use git checkout b branchName to create new branch and stand on it .
