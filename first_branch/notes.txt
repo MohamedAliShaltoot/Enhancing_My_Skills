@@ -1,3 +1,5 @@
 # Notes :
 
 1] use git checkout b branchName to create new branch and stand on it .
+
+2] use git commit -am " message " to add and commit at the same command .
