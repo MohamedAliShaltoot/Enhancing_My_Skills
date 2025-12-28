@@ -73,35 +73,3 @@ To create a new tag:
 ### How to Add Some Style to Your Notes (CSS)
 If you're using this `README.md` on a personal website or custom project, you can enhance its look by adding some **CSS** for hover effects, like:
 
-```html
-<style>
-  h3 {
-    font-size: 1.2em;
-    color: #4CAF50;
-    transition: all 0.3s ease;
-  }
-
-  h3:hover {
-    color: #FF5733;
-    cursor: pointer;
-  }
-
-  code {
-    background-color: #f4f4f4;
-    border-radius: 5px;
-    padding: 0.3em;
-  }
-
-  .note {
-    background-color: #f9f9f9;
-    padding: 10px;
-    border-radius: 8px;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-    margin-bottom: 15px;
-    transition: background-color 0.3s ease;
-  }
-
-  .note:hover {
-    background-color: #e0f7fa;
-  }
-</style>
