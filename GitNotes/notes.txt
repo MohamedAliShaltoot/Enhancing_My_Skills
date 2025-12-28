@@ -23,4 +23,6 @@ this command git branch -d branchName .
 10] How to hold on your current changes to do another task -> use git stash then after
 you finsihing your other tasks -> use git stash apply stash@{0} . 
 
+11] How to make a tag -> use git tag tagName commit_ID .
+
 
