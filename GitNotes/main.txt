@@ -1,7 +1,8 @@
 int main(){
 
 print("Good Morning");
-
+int x ,y;
+print(x+y);
 
 print("Good Evening");
 return 0;
