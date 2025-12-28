@@ -14,4 +14,6 @@ this command git branch -d branchName .
 
 6] How to use Rebase in git commands . And what is the difference between Rebase and Merge .
 
+7] How to reput a file to .gitignore after you add it using git add that file ---> git rm --cached lab1.xml library.json
+
 
