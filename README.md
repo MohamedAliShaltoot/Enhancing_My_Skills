@@ -49,7 +49,4 @@
    - Commit the change:
      bash
      git commit -m "Stop tracking lab1.xml and library.json"
-     
-
-
-Would you like help adding this to your actual README.md file or customizing it for a specific project?
+   
