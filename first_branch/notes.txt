@@ -6,4 +6,10 @@
 
 3] use git reset fileName to unstage last git add fileName .
 
-3] If you pushed a new commit and there is no pull Request & compare appeared there is a drop down menu called contribute click it and U can do pull request .
+4] If you pushed a new commit and there is no pull Request & compare
+ appeared there is a drop down menu called contribute click it and U can do pull request .
+
+5] If you want to delete a branch you should stand on another branch then write 
+this command git branch -d branchName .
+
+
