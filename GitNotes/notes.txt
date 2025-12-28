@@ -12,4 +12,6 @@
 5] If you want to delete a branch you should stand on another branch then write 
 this command git branch -d branchName .
 
+6] How to use Rebase in git commands . And what is the difference between Rebase and Merge .
+
 
