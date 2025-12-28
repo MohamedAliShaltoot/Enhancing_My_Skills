@@ -20,4 +20,7 @@ this command git branch -d branchName .
 
 9] How to remove unwanted line you commited it -> use git revert commit_ID .
 
+10] How to hold on your current changes to do another task -> use git stash then after
+you finsihing your other tasks -> use git stash apply stash@{0} . 
+
 
