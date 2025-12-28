@@ -18,4 +18,6 @@ this command git branch -d branchName .
 
 8] How to see what a commit did ? use git show commit_id .
 
+9] How to remove unwanted line you commited it -> use git revert commit_ID .
+
 
