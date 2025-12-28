@@ -70,6 +70,4 @@ To create a new tag:
 
 ---
 
-### How to Add Some Style to Your Notes (CSS)
-If you're using this `README.md` on a personal website or custom project, you can enhance its look by adding some **CSS** for hover effects, like:
 
